@@ -1,0 +1,3 @@
+Date: 6122001:1:2024
+Monthly_Income: 5000
+Total: -20000
